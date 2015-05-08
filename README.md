@@ -1,2 +1,2 @@
-# Java-libraries-of-general-purpose
+# Java libraries of general purpose
 Libset general purpose
