@@ -5,7 +5,9 @@ by Alejandro Casado Quijada
 ##Description
 Set of classes to paint figures with own attributes in java.
 
-For this we have created an abstract class from which other classes 
+This is not possible with the implementation of the current interface shape.
+
+To correct this we have created an abstract class from which other classes 
 inherit representing the various figures will paint.
 
 This is not possible with the implementation of the current interface shape.
