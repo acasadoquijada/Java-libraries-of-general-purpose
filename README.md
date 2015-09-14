@@ -6,4 +6,4 @@ The objective of this repository is facilitate development in Java using general
 
 * **EasySocketTransmission**
 
-* **Set of classes for painting shapes in Java**
+* **Set of classes to paint figures with own attributes**
